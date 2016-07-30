@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>蚁巢</title>
   <subtitle>一个关于蚂蚁帝国的故事...</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/rss.xml" rel="self"/>
   
   <link href="http://antpire.llorz.com/"/>
   <updated>2016-07-30T14:50:30.637Z</updated>
